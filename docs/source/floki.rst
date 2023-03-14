@@ -9,6 +9,5 @@ A ideia
 
 O Floki pipipipopopo preguiça de botar texto vou testar tag
 .. image:: ../imagens/teste.jfif
-   :target: ../imagens/teste.jfif
    
 Floki pipipipopopo
