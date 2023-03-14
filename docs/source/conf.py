@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'NautiDocs'
+copyright = '2023, Poli Náutico'
+author = 'Equipe Poli Náutico'
 
 release = '0.1'
 version = '0.1.0'
