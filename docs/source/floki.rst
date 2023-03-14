@@ -8,6 +8,6 @@ A ideia
 ------------
 
 O Floki pipipipopopo preguiça de botar texto vou testar tag
-   .. image:: imagens/teste.jfif
+   .. image:: imagens/trimaraex.jpg
    
 Floki pipipipopopo Joao Caser muito legal
