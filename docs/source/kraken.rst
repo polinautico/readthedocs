@@ -12,5 +12,6 @@ Bem vindo ao projeto do kraken:
 
    (.venv) $ pip install lumache
 
-Creating recipes
-----------------
+.. note::
+
+   Vai dar bom
