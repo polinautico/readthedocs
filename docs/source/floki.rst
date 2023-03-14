@@ -1,7 +1,7 @@
 Floki
 =====
 
-Ahoy! Bem vindo ao Floki, marujo!:
+Ahoy! Bem vindo ao Floki, maraujos! :
 Nesta guia, iremos mostrar todo o projeto de criação da nossa embarcação tripulada: o Floki.
 
 A ideia
