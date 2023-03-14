@@ -16,7 +16,7 @@ Bem vindo ao projeto do kraken
 
 Guia
 ------------
-  .. image:: ../imagens/Copia_de_20220320_103243.jpg
+  .. image:: ../../../imagens/Copia_de_20220320_103243.jpg
       :target: _imagens/Copia_de_20220320_103243.jpg
 *asdaad.
 
