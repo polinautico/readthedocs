@@ -23,7 +23,7 @@ A embarcação
 ------------
 
 Mas afinal, de onde vem o nome "Floki"?
-O barco recebeu esse nome em referencia a (pergunta pro Igor/Bambu)
+O barco recebeu esse nome em referência a um personagem da série Vikings. Floki é um construtor de navios habilidoso e determinado, pois acredita que os frutos de seu ofício são importantes presentes aos deuses. Semelhante a ele, são os membros do polináutico, já que procuramos sempre cumprir nossos objetivos com excelência. 
 
 Agora, por que decidimos fazer um trimarã?
 Para início de conversa, um trimarã se consiste numa embarcação de três cascos, paralelos e fixos conectados por hastes, garantindo uma maior estabilidade para o barco e as placas solares. A equipe está precisando se acostumar a trabalhar com projetos maiores, então esee desafio é muito bem vindo. 
