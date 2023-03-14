@@ -1,18 +1,14 @@
 Floki
 =====
 
-.. _installation:
-
-Installation
-------------
-
 Ahoy! Bem vindo ao Floki, marujo!:
 Nesta guia, iremos mostrar todo o projeto de criação da nossa embarcação tripulada: o Floki.
 
-.. code-block:: console
+A ideia
+------------
 
-   (.venv) $ pip install lumache
-
-.. note::
-
-   Lorem Ipsum Dolor
+O Floki pipipipopopo preguiça de botar texto vou testar tag
+.. image:: ../imagens/teste.jfif
+   :target: ../imagens/teste.jfif
+   
+Floki pipipipopopo
