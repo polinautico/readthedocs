@@ -6,7 +6,8 @@ Floki
 Installation
 ------------
 
-Bem vindo ao projeto do floki:
+Ahoy! Bem vindo ao Floki, marujo!:
+Nesta guia, iremos mostrar todo o projeto de criação da nossa embarcação tripulada: o Floki.
 
 .. code-block:: console
 
