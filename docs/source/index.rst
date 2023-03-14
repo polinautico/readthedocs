@@ -1,19 +1,16 @@
-Welcome to Lumache's documentation!
+Bem vindo ao NautiDocs
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Poli Náutico** é uma equipe de nautidesign fundada em 2014 com o intuito de complementar a aprendizagem dos alunos.
+
+Aqui documentamos nossos projetos para que vocês do futuro possam entender o que a gente fez :)
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
-   pedro > kraken
-   opa
+   O Kraken devia ter chamado pedro henrique
 
 Contents
 --------
