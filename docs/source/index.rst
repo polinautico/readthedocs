@@ -23,4 +23,7 @@ Contents
    usage
    api
    kraken
+   floki
+   AC
+   Pedro
    
