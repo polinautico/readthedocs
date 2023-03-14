@@ -13,6 +13,7 @@ how to :ref:`installation` the project.
 
    This project is under active development.
    pedro > kraken
+   henrique > floki
 
 Contents
 --------
