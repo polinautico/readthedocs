@@ -26,4 +26,5 @@ Contents
    floki
    AC
    Pedro
+   documentation
    
