@@ -1,4 +1,4 @@
-API
+Kraken
 ===
 
 .. autosummary::
