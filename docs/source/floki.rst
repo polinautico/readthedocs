@@ -1,3 +1,4 @@
+=====
 Floki
 =====
 
@@ -5,7 +6,7 @@ Ahoy! Bem vindo ao Floki, maraujos! :
 Nesta guia, iremos mostrar todo o projeto de criação da nossa embarcação tripulada: o Floki.
 
 A ideia
-------------
+============
 
 A motivação por trás da criação do Floki foi a vontade da equipe de participar da competição Desafio Solar Brasil (o DSB), realizada em Niterói, RJ.
 Nessa competição, o foco dela é promover uma disputa entre grupos de nautimodelismo com seus projetos de embarcações tripuladas movidas a energia solar, incentivando a pesquisa e desenvolvimento da área sustentável na engenharia naval e oceânica.
@@ -20,7 +21,7 @@ Imagem meramente ilustrativa.
 Tendo essas motivações, a equipe aceitou esse desafio, sendo a primeira vez que faríamos um barco deste tamanho e complexidade. Os membros do Polináutico acreditam que  competição é uma porta aberta a se aprofundar nesse eixo do nautimodelismo, para que, no futuro, tenhamos experiência o suficiente para competir em Mônaco, onde há outra competição.
 
 A embarcação
-------------
+============
 
 Mas afinal, de onde vem o nome "Floki"?
 O barco recebeu esse nome em referência a um personagem da série Vikings. Floki é um construtor de navios habilidoso e determinado, pois acredita que os frutos de seu ofício são importantes presentes aos deuses. Semelhante a ele, são os membros do polináutico, já que procuramos sempre cumprir nossos objetivos com excelência. 
