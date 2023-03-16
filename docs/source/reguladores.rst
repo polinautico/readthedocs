@@ -84,13 +84,23 @@ Resumo dos Componentes
     :widths: 25 25 50
     :header-rows: 1
 
-   * - Heading row 1, column 1
-     - Heading row 1, column 2
-     - Heading row 1, column 3
-   * - Row 1, column 1
-     -
-     - Row 1, column 3
-   * - Row 2, column 1
-     - Row 2, column 2
-     - Row 2, column 3
+   * - Componente
+     - Valor
+   * - Cin
+     - 100 μF / 63 V
+   * - Cout
+     - 470 μF / 25 V
+   * - Diodo
+     - UF5408
+   * - Indutor
+     - 220 μH
+ 
+Referências
+===========
 
+-   https://www.elprocus.com/types-of-voltage-regulators-and-working-principle/
+-   https://www.monolithicpower.com/en/voltage-regulator-types
+-   https://www.ti.com/lit/ds/symlink/lm2575-n.pdf
+-   https://www.ti.com/lit/ds/symlink/lm2576.pdf
+-   https://www.ti.com/lit/ds/symlink/lm2596.pdf
+-   https://www.vishay.com/docs/88756/uf5400.pdf
