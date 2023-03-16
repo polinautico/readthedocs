@@ -54,3 +54,29 @@ Escolhemos variantes de um mesmo circuito integrado para este projeto, assim o c
 
 De acordo com o datasheet, precisamos de um capacitor de entrada e um de saída, um indutor e um diodo. Os valores desses componentes dependem da tensão esperada de entrada e da corrente prevista de saída, informados em gráficos nos respectivos datasheets.
 
+Capacitor de entrada
+--------------
+
+Para uma operação estável, é necessário um capacitor de pelo menos 47 μF de tensão acima do esperado. A fim de utilizar um único capacitor para ambos os circuitos, decidimos por capacitores eletrolíticos de 100 μF, 63 V.
+
+Capacitor de saída
+--------------
+
+Na saída, é necessário um capacitor para reduzir o nível de oscilações (ripple). De acordo com o datasheet, quanto maior o valor do componente, menor a oscilação. Como nossa aplicação não é sensível ao ripple, um capacitor eletrolítico de 470 μF, 25 V é o suficiente.
+
+Indutor
+--------------
+
+Para a escolha do indutor, consideramos o pior caso possível para os circuitos, que seria corrente máxima e tensão de entrada acima do ideal (1 A e 15 V para o LM2575, 3 A e 60 V para o LM2576). Incrivelmente, para ambos os casos um indutor de 220 μH é o suficiente.
+
+Diodo
+--------------
+
+Segundo o datasheet, diodos das famílias 1N4000 e 1N5000 não são adequados por serem de baixa frequência. Também é sugerido 25% como margem de segurança nos valores de tensão.
+
+A loja online que compramos os componentes não possuía uma grande variedade de diodos, então escolhemos o UF5408, que possui boa resposta em altas frequências e tensão reversa máxima de 1000 V. Apesar de ser muito além do necessário, era o único disponível na loja que atendia a demanda do circuito.
+
+Resumo dos Componentes
+---------------
+
+
