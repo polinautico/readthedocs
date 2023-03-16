@@ -21,7 +21,6 @@ Contents
    api
    kraken
    floki
-   AC
-   Pedro
+   reguladores
    documentation
    
