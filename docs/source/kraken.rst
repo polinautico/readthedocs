@@ -6,22 +6,22 @@ Kraken
 Saudações
 ------------
 
-Bem vindo ao projeto do kraken
+Bem vindo ao projeto do kraken (escreva aqui)
 
 .. note::
 
-   Vai dar bom
+   exemplo de nota
    
-.. _guia:
+.. _historia:
 
-Guia
+Historia
 ------------
   .. image:: imagens/Copia_de_20220320_103243.jpg
   
-*asdaad.
+escreva aqui.
 
 
-segundo
+proximo topico
 ------------
 
-minuto
+escreva aqui
