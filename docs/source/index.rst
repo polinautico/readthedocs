@@ -5,9 +5,6 @@ Bem vindo ao NautiDocs
 
 Aqui documentamos nossos projetos para que vocês do futuro possam entender o que a gente fez :)
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
 .. note::
 
    O Kraken devia ter chamado pedro henrique
@@ -18,5 +15,6 @@ Contents
 .. toctree::
    :hidden:
 
-   Home <https://docs.polinautico.com>
    Floki <https://docs.polinautico.com/projects/Floki/>
+   Kraken <https://docs.polinautico.com/projects/Kraken/>
+   AC Autonomo <https://docs.polinautico.com/projects/ACAutonomo/>
