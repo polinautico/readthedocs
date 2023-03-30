@@ -9,7 +9,7 @@ Como navegar pela documentação dos projetos
 ------
 
 Na barra ao lado existem os projetos que já documentamos. Clique em um deles para ir às suas respectivas documentações.
-<img src:"https://raw.githubusercontent.com/polinautico/readthedocs/main/docs/source/imagens/barra_lateral.png">
+<img src="https://raw.githubusercontent.com/polinautico/readthedocs/main/docs/source/imagens/barra_lateral.png">
 
 
 .. note::
