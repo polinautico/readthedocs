@@ -9,6 +9,7 @@ Como navegar pela documentação dos projetos
 ------
 
 Na barra ao lado existem os projetos que já documentamos. Clique em um deles para ir às suas respectivas documentações.
+
 .. image:: imagens/barra_lateral.png
   :alt: Barra lateral
 
