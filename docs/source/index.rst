@@ -5,23 +5,27 @@ Bem vindo ao NautiDocs
 
 Aqui documentamos nossos projetos para que vocês do futuro possam entender o que a gente fez :)
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Como navegar pela documentação dos projetos
+------
+
+Na barra ao lado existem os projetos que já documentamos. Clique em um deles para ir às suas respectivas documentações.
+
+.. image:: imagens/barra_lateral.png
+  :width: 400
+  :alt: Barra lateral
+
 
 .. note::
-
-   O Kraken devia ter chamado pedro henrique
+   O NautiDocs está em fase de construção!
+   Todos estâo convidados a contribuir e corrigir erros. Caso nâo seja da equipe ou não esteja no time do nosso github, faça um pull request para sugerir edições
 
 Contents
 --------
 
 .. toctree::
+   :hidden:
 
-   usage
-   api
-   kraken
-   floki
-   AC
-   Pedro
-   documentation
-   
+   Floki <https://docs.polinautico.com/projects/Floki/>
+   Kraken <https://docs.polinautico.com/projects/Kraken/>
+   AC Autonomo <https://docs.polinautico.com/projects/AC-Autonomo/>
+   editar
