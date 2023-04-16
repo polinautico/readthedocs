@@ -1,0 +1,9 @@
+[submodule "RTD-Floki"]
+	path = RTD-Floki
+	url = https://github.com/polinautico/RTD-Floki.git
+[submodule "RTD-Kraken"]
+	path = RTD-Kraken
+	url = https://github.com/polinautico/RTD-Kraken.git
+[submodule "RTD-ACAutonomo"]
+	path = RTD-ACAutonomo
+	url = https://github.com/polinautico/RTD-ACAutonomo.git
