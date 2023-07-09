@@ -27,5 +27,5 @@ Contents
 
    Floki <https://docs.polinautico.com/projects/Floki/>
    Kraken <https://docs.polinautico.com/projects/Kraken/>
-   AC Autonomo <https://docs.polinautico.com/projects/AC-Autonomo/>
+   AC Autônomo <https://docs.polinautico.com/projects/AC-Autonomo/>
    editar
